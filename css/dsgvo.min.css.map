@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,cAAc,AAAC,CACX,KAAK,CAAE,GAAG,CACV,MAAM,CAAE,MAAM,CACd,OAAO,CAAE,KAAK,CAAG",
+    "sources": [
+        "../sass/dsgvo.sass"
+    ],
+    "names": [],
+    "file": "dsgvo.min.css"
+}
